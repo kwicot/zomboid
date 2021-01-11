@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0ccadd33f1526348b793cfbeb551a19, type: 3}
+  m_Name: Glock_17
+  m_EditorClassIdentifier: 
+  ID: 4
+  itemName: Glock 17
+  itemDescription: 
+  stackble: 0
+  maxStackSize: 1
+  count: 0
+  weight: 10
+  sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  prefab: {fileID: 8482725890895532757, guid: 79666b7dc51960f4bbfbad1351d735d6, type: 3}
+  type: 1
